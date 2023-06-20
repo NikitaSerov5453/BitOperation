@@ -7,8 +7,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         lesson9(scanner.nextInt(), scanner.nextInt());
 
-
-
     }
 
     public static int lesson2(int n) {
